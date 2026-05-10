@@ -1,0 +1,1 @@
+insert into student (id, name, marks) values (1, 'Divyansh', 99)
